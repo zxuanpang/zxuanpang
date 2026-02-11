@@ -1,125 +1,107 @@
-🌟 Hi there, I am Pang Zhi Xuan
+# 🌟 Hi there, I am Pang Zhi Xuan  
 
-A Computer Science Undergraduate | Software Development Enthusiast
+**Computer Science Undergraduate | Software Development Enthusiast**
 
-👤 Profile Section
-![Pang Zhi Xuan](https://github.com/user-attachments/assets/3f4ee0a3-450e-4105-a4e4-c802a530edf1)
+---
 
-📰 Headline
+## 👤 Profile
 
-Computer Science Undergraduate | Passionate About Software Engineering & Emerging Technologies
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f4ee0a3-450e-4105-a4e4-c802a530edf1" width="180"/>
+</p>
 
-📝 Summary
+### 📰 Headline
+**Computer Science Undergraduate | Passionate About Software Engineering & Emerging Technologies**
 
-I am a Computer Science undergraduate with a strong interest in software development, and system integration. I enjoy building practical applications that solve real-world problems and improve user experience.
+### 📝 Summary
+I am a Computer Science undergraduate with a strong interest in **software development and system integration**.  
+I enjoy building practical applications that solve real-world problems and improve user experience.
 
-During my internship, I gained hands-on experience in API testing, system integration, SQL queries, template management, and .NET-based enterprise systems. I am passionate about learning new technologies and continuously improving my technical and problem-solving skills.
+During my internship, I gained hands-on experience in:
 
-🎓 Core Section
-🎓 Education
+- API testing  
+- System integration  
+- SQL queries  
+- Template management  
+- .NET-based enterprise systems  
 
-Bachelor of Computer Science
+I am passionate about learning new technologies and continuously improving my technical and problem-solving skills.
+
+---
+
+## 🎓 Core
+
+### 🎓 Education
+**Bachelor of Computer Science**  
 Universiti Teknologi Malaysia (UTM)
-Relevant Coursework:
 
-Discrete Mathematics
+**Relevant Coursework:**
+- Discrete Structure
+- Geometric Modelling  
+- Technology & Information Systems  
+- Database 
+- Software Engineering  
 
-Geometric Modelling
+---
 
-Technology & Information Systems
+### 💼 Experience
+**Full Stack .NET Development Intern**
 
-Database Systems
+- Tested and validated APIs using **Postman**
+- Performed **SQL queries and data comparison**
+- Worked with **upload APIs**
+- Participated in .NET project
 
-Software Engineering
+---
 
-💼 Position / Experience
+## 🛠️ Technical Skills
 
-Software Development Intern
+### 💻 Programming Languages
+- C#  
+- SQL  
+- Java  
+- Python (Basic)  
 
-Tested and validated APIs using Postman (CCM API v1)
+### 🧰 Tools & Technologies
+- Unity & ARFoundation  
+- Blender (3D Modelling)  
+- Git & GitHub  
+- Postman  
+- Microsoft SQL Server  
+- .NET Environment  
 
-Performed SQL queries and data comparison for template systems
+### 🔎 Other Skills
+- API Testing  
+- Database Query Optimization  
+- Template Content Comparison  
+- Debugging & Troubleshooting  
+- Technical Documentation  
 
-Worked with encrypted upload APIs and Filenet search integration
+---
 
-Participated in project meetings (e.g., .NET Project Dependency Checking Enforcement)
+## 📚 Recommended
 
-Assisted in troubleshooting authentication and token-based login issues
+### 📖 Relevant Courses
+- Application Development  
+- Software Engineering  
+- Object-Oriented Programming  
+- Database Systems  
+- Geometric Modelling  
+- Discrete Structure  
 
-🛠️ Technical Skills
+### 📜 Certifications
+- Microsoft AI Strategy
 
-Programming Languages:
+---
 
-C#
+## 🏆 Additional
 
-SQL
+### 🎖️ Projects
 
-Java
+**🔹 Template Content Comparison Tool (Internship Task)**  
+- Built SQL scripts to compare Template and TemplatePart content  
+- Optimized queries to identify differences efficiently  
+- Improved data validation process  
 
-Python (basic)
-
-Tools & Technologies:
-
-Unity & ARFoundation
-
-Blender (3D modelling)
-
-Git & GitHub
-
-Postman
-
-Microsoft SQL Server
-
-.NET Environment
-
-Other Skills:
-
-API Testing
-
-Database Query Optimization
-
-Template Content Comparison
-
-Debugging & Troubleshooting
-
-Technical Documentation
-
-📚 Recommended Section
-📖 Relevant Courses
-
-Application Development
-
-Software Engineering
-
-Object Oriented Programming
-
-Database
-
-Geometric Modelling
-
-Discrete Structure
-
-📜 Certifications
-
-(Add if applicable, examples below)
-
-GitHub / Version Control Basics
-
-SQL Fundamentals
-
-.NET or API Testing related training
-
-🏆 Additional Section
-🎖️ Projects
-
-🔹 Template Content Comparison Tool (Internship Task)
-
-Built SQL scripts to compare Template and TemplatePart content
-
-Optimized queries to identify differences efficiently
-
-Improved data validation process
-
-🏅 Honors & Awards
-
-Dean’s List
+### 🏅 Honors & Awards
+- **Dean’s List**
