@@ -49,7 +49,6 @@ Universiti Teknologi Malaysia (UTM)
 
 - Tested and validated APIs using **Postman**
 - Performed **SQL queries and data comparison**
-- Worked with **upload APIs**
 - Participated in .NET project
 
 ---
